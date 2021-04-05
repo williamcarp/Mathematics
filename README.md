@@ -5,7 +5,13 @@ A repository to aggregate notes on various mathematical topics most pertinent to
 
 # To Add
 
-Black-Scholes PDE derivation and interpretation. 
+Black-Scholes -> Black-Scholes PDE derivation and interpretation. 
+
+Stochastic Calculus -> basic concepts, Ito's lemma, Girsanov's Theorem.
+
+Calculus -> derivatives, integrals, Taylor expansion
+
+Fundamental -> logs 
 
 Risk-neutral pricing with trees (theory). 
 
@@ -19,10 +25,5 @@ Interest Rates "No arbitrage" concepts with zero coupon bonds and forward rates.
 
 Bond Pricing (w/ some consideration of default risk) 
 
-Taylor Expansion 
+Interest Rate Models: Vasicek, CIR, Ho-Lee, Libor-Market
 
-Derivatives and Integrals 
-
-Vasicek and CIR mathematics. 
-
-Libor Market Model mathematics. 
