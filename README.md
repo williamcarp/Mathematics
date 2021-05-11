@@ -9,7 +9,7 @@ Black-Scholes -> Black-Scholes PDE derivation and interpretation.
 
 Stochastic Calculus -> basic concepts, Ito's lemma, Girsanov's Theorem, Martingales, Brownian Motion, Poisson process.
 
-Statistics -> mean, median, variance, sampling, OLS.  
+Statistics -> mean, median, variance, random variables, sampling, OLS, fixed effects, logistic regression. 
 
 Calculus -> derivatives, integrals, Taylor expansions.
 
