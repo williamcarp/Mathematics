@@ -28,3 +28,17 @@ Interest Rates "No arbitrage" concepts with zero coupon bonds and forward rates.
 Bond Pricing (w/ some consideration of default risk) 
 
 Interest Rate Models: Vasicek, CIR, Ho-Lee, Libor-Market
+
+
+# General areas 
+
+Calculus 
+
+Statistics + Econometrics 
+
+Stochastic Calculus 
+
+Fixed Income
+
+Computer Science 
+
