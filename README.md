@@ -33,12 +33,18 @@ Interest Rate Models: Vasicek, CIR, Ho-Lee, Libor-Market
 # General areas 
 
 Calculus 
+* Dervatives, Integrals, Taylor expansions 
 
-Statistics + Econometrics 
+Statistics + Econometrics
+* Sampling, regressions, most important rules 
 
 Stochastic Calculus 
+* Martingales, fundamental assumptions 
 
 Fixed Income
+* Discounting, Valuations, applicable mathematics 
 
 Computer Science 
-
+* Algorithms 
+* Basis programming data structures 
+* Fundamental programs in python 
